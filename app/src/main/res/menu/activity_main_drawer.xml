@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/salah_id"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="من هو محمد صلاح" />
+        <item
+            android:id="@+id/mor_app"
+            android:icon="@drawable/morapps"
+            android:title="تطبيقات اخرى" />
+        <item
+            android:id="@+id/rate_app"
+            android:icon="@drawable/star"
+            android:title="تقييم التطبيق" />
+        <item
+            android:id="@+id/exite_app"
+            android:icon="@drawable/ex"
+            android:title="خروج" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share_app"
+                android:icon="@drawable/share"
+                android:title="شارك التطبيق" />
+            <item
+                android:id="@+id/con_app"
+                android:icon="@drawable/emailsend"
+                android:title="تواصل معنا" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142247450202",
+    "firebase_url": "https://slah-news.firebaseio.com",
+    "project_id": "slah-news",
+    "storage_bucket": "slah-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142247450202:android:765fe1f528f7f072",
+        "android_client_info": {
+          "package_name": "com.example.fakhrelarab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142247450202-kb4anp64sfgtu2kufesvr0one4eclba6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fakhrelarab",
+            "certificate_hash": "8eddb4603b7aa47b1f386408024dd4f15919e5d0"
+          }
+        },
+        {
+          "client_id": "142247450202-k9rcf4u90jgtsl8f39u0qs771s5jdli2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbA2EmcSp7AhQ8xKRmaXX3ad8qeD7NvFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142247450202-k9rcf4u90jgtsl8f39u0qs771s5jdli2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
